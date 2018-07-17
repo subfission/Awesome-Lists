@@ -10,9 +10,6 @@
 [submodule "AggressorScripts"]
 	path = AggressorScripts
 	url = https://github.com/harleyQu1nn/AggressorScripts.git
-[submodule "IntruderPayloads"]
-	path = IntruderPayloads
-	url = https://github.com/1N3/IntruderPayloads
 [submodule "awesome-malware-analysis"]
 	path = awesome-malware-analysis
 	url = https://github.com/rshipp/awesome-malware-analysis.git
