@@ -1,0 +1,24 @@
+[submodule "Awesome-Hacking-Tools"]
+	path = Awesome-Hacking-Tools
+	url = https://github.com/m4ll0k/Awesome-Hacking-Tools.git
+[submodule "awesome-osint"]
+	path = awesome-osint
+	url = https://github.com/jivoi/awesome-osint.git
+[submodule "awesome-threat-intelligence"]
+	path = awesome-threat-intelligence
+	url = https://github.com/hslatman/awesome-threat-intelligence.git
+[submodule "AggressorScripts"]
+	path = AggressorScripts
+	url = https://github.com/harleyQu1nn/AggressorScripts.git
+[submodule "IntruderPayloads"]
+	path = IntruderPayloads
+	url = https://github.com/1N3/IntruderPayloads
+[submodule "awesome-malware-analysis"]
+	path = awesome-malware-analysis
+	url = https://github.com/rshipp/awesome-malware-analysis.git
+[submodule "awesome-honeypots"]
+	path = awesome-honeypots
+	url = https://github.com/paralax/awesome-honeypots.git
+[submodule "Public-APIs"]
+	path = Public-APIs
+	url = https://github.com/abhishekbanthia/Public-APIs.git
