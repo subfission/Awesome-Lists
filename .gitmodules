@@ -19,3 +19,42 @@
 [submodule "Public-APIs"]
 	path = Public-APIs
 	url = https://github.com/abhishekbanthia/Public-APIs.git
+[submodule "awesome-pcaptools"]
+	path = awesome-pcaptools
+	url = https://github.com/caesar0301/awesome-pcaptools
+[submodule "awesome-web-security"]
+	path = awesome-web-security
+	url = https://github.com/qazbnm456/awesome-web-security
+[submodule "awesome-hacking"]
+	path = awesome-hacking
+	url = https://github.com/carpedm20/awesome-hacking
+[submodule "awesome-vehicle-security"]
+	path = awesome-vehicle-security
+	url = https://github.com/jaredthecoder/awesome-vehicle-security
+[submodule "awesome-incident-response"]
+	path = awesome-incident-response
+	url = https://github.com/meirwah/awesome-incident-response
+[submodule "awesome-lockpicking"]
+	path = awesome-lockpicking
+	url = https://github.com/meitar/awesome-lockpicking
+[submodule "android-security-awesome"]
+	path = android-security-awesome
+	url = https://github.com/ashishb/android-security-awesome
+[submodule "awesome-ctf"]
+	path = awesome-ctf
+	url = https://github.com/apsdehal/awesome-ctf
+[submodule "awesome-security"]
+	path = awesome-security
+	url = https://github.com/sbilly/awesome-security
+[submodule "awesome-appsec"]
+	path = awesome-appsec
+	url = https://github.com/paragonie/awesome-appsec
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/sindresorhus/awesome
+[submodule "awesome-hacking-spots"]
+	path = awesome-hacking-spots
+	url = https://github.com/diasdavid/awesome-hacking-spots
+[submodule "bots"]
+	path = bots
+	url = https://github.com/hackerkid/bots
