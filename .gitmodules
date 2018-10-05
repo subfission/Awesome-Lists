@@ -58,3 +58,7 @@
 [submodule "bots"]
 	path = bots
 	url = https://github.com/hackerkid/bots
+[submodule "awesome-sec-talks"]
+	path = awesome-sec-talks
+	url = https://github.com/PaulSec/awesome-sec-talks
+	branch = master
