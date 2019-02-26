@@ -62,3 +62,6 @@
 	path = awesome-sec-talks
 	url = https://github.com/PaulSec/awesome-sec-talks
 	branch = master
+[submodule "awesome-devsecops"]
+	path = awesome-devsecops
+	url = https://github.com/devsecops/awesome-devsecops
