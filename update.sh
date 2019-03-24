@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull
 git submodule foreach 'git checkout master; git pull'
 git submodule update --init --recursive
 git add .
